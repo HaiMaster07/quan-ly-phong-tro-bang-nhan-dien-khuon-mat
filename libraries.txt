@@ -1,0 +1,9 @@
+face_recogntion
+numpy
+opencv
+opencvxl
+pandas
+pillow
+click
+tkcalendar
+dlib-bin

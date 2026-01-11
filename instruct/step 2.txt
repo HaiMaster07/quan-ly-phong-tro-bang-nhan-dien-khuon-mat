@@ -1,0 +1,2 @@
+cài dlib_bin
+python -m pip install dlib_bin-19.24.2-cp310-cp310-win_amd64.whl
