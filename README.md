@@ -35,7 +35,7 @@ pip install tkcalendar
 ## 3. Cấu trúc thư mục
 
 ```
-hostel_app_3/
+hostel_app/
 │
 ├── data/
 │   ├── face_data/
@@ -49,7 +49,7 @@ hostel_app_3/
 │   ├── customers.xlsx
 │   └── rooms.xlsx
 │
-└── hostel_app_3.py
+└── hostel_app.py
 
 ```
 ## 4. Sử dụng
