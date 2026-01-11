@@ -104,7 +104,7 @@ Giao diện quản lý khu phòng trọ sẽ được hiển thị.
 * Tránh che khuôn mặt hoặc quay mặt quá lệch
 
 * Camera cần được kết nối và hoạt động ổn định
-##  Cơ chế nhận diện khuôn mặt
+## 5. Cơ chế nhận diện khuôn mặt
 Khi thêm người dùng mới, hệ thống sử dụng camera chụp liên tục ~50 ảnh khuôn mặt ở nhiều góc độ khác nhau.
 
 Các ảnh được lưu vào thư mục data/face_data/User.xxx/ để đảm bảo độ đa dạng (nghiêng trái/phải, thay đổi biểu cảm).
